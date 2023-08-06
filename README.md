@@ -1,5 +1,6 @@
 # InventoryManagementSys
 Helps manage inventory and generates sales report.
+
 Add product to the inventory.
 Add stock to existing product in the inventory.
 Add warranty to a particular product.
